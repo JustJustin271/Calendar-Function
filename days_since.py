@@ -19,7 +19,6 @@ class Date:
         self.month = month
         self.day = day
         self.year = year
-        
 
 def day_count(date):
     month = date.month
@@ -65,3 +64,4 @@ print(f"Difference between dates is {day_differ} days")
 # Days since calculator
 # Created and edited on May 6th, 2026 :)
 # It's purpose is to find the number of days between 2 dates :D
+# https://www.online-python.com/Zd1Kc5k2nQ
